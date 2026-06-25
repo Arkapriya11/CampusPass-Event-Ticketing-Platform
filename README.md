@@ -390,7 +390,7 @@ This project was developed collaboratively as a team project.
 Contributors:
 
 * Arkapriya Das
-* Krishna
+* Vineel Krishna
 
 ---
 
